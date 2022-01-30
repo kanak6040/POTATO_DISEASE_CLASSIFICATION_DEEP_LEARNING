@@ -1,0 +1,2 @@
+# POTATO_DISEASE_CLASSIFICATION_DEEP_LEARNING
+![](potato_classification.png)
